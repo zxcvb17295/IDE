@@ -1,1 +1,5 @@
-# IDE
+# Tmux
+```
+make tmux
+```
+
